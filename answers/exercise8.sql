@@ -35,8 +35,8 @@ mysql> Describe Students;
  insert into Students Values ('Jane Doe', '57 Union St', 'Glasgow', 'G13RB', 'Scotland');
 Query OK, 1 row affected (0.02 sec)
 
- insert into Students Values ('Robert Mason', '34 N State St', 'Trenton', '08618', 'New Jersey');
+ insert into Students Values ('Robert Mason', '34 N State St', 'Trenton', '08618', 'United States');
 Query OK, 1 row affected (0.04 sec)
 
- insert into Students Values ('Lisa Forsythe', '86 East Amber Street', 'Philadelphia', '34215', 'Pennsylvania');
+ insert into Students Values ('Lisa Forsythe', '86 East Amber Street', 'Philadelphia', '34215', 'United States');
 Query OK, 1 row affected (0.01 sec)
